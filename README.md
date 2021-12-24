@@ -1,2 +1,2 @@
-# community
-AI community for Towards AI
+# AI Community
+Join us → https://community.towardsai.net/
